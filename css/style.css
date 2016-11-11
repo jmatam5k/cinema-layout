@@ -1,0 +1,176 @@
+body{
+	font-family: Arial, sans-serif;
+}
+header{
+	background-color:#f5f5f5;
+}
+.lista{
+	margin-left: -43px;
+	padding: 32px;
+	color:#b5b5b5;
+}
+
+.buscar{
+	float: right;
+	margin-top: 32px;
+	margin-right: -54px;
+}
+.icon-buscar:before {
+	content: "\e900";
+}
+/************************************/
+
+.banner{
+	background-image: url(../img/banner.jpg);
+	background-size: 76%;
+	background-repeat: no-repeat;
+	background-color: #383838;
+	height: 500px;
+} 
+.icono {
+	height: 77px;
+	margin-top: 237px;
+	margin-left: 238px;
+}
+.big{
+	margin-top: 20px;
+	color:#BCBBBB;
+}
+hr{
+	width: 80%;
+}
+.allage{
+	border: 1.5px solid green;
+	color: green;
+	width: 60px;
+	text-align: center;
+	text-decoration: none;
+	border-radius:4px 4px 4px 4px;
+	margin-top: 12px;
+	
+}
+.ot{
+	margin-top: 12px;
+}
+.big2{
+	margin-left: -28px;
+	margin-top: 20px;
+	color:#BCBBBB;
+}
+.video{
+	background-color: #dfb636;
+	border-radius: 5px;
+	width: 160px;
+	padding: 10px;
+	text-align: center;
+	color: #FFFFFF;
+}
+.libro{
+	background-color: #bb7b29;
+	border-radius: 5px;
+	width: 160px;
+	padding: 10px;
+	color: #FFFFFF;
+}
+.botones{
+	margin-top: 31px;
+}
+.amarillo{
+	background-color: #dfb636;
+	width: auto;
+	padding: 2% 3% 2% 3%;
+
+}
+.caratulas{
+	width: 180px;
+	height: 200px;
+}
+.videourl{
+	width: 111%;
+	height: 300px;
+	margin-left: -66px;
+}
+.fraseuno{
+	font-family: Arial;
+	font-size: 30px;
+	color: gray;
+}
+.frasedos{
+	font-family: Arial;
+	font-size: 40px;
+	color: black;
+}
+.frasetres{
+	font-family: Arial;
+	font-size: 33px;
+	color: #D3CBCB;
+}
+.frasecuatro{
+	font-family: Arial;
+	font-size: 15px;
+	color: #DA8888;
+}
+.dos{
+	padding: 2%;
+}
+.libro2{
+	background-color: #bb7b29;
+	border-radius: 5px;
+	width: 160px;
+	height: 66px;
+	padding: 10px;
+	color: #FFFFFF;
+}
+.nuevouno{
+	font-family: Arial;
+	font-size: 30px;
+	color: gray;
+	margin-bottom: 20px;
+}
+.bhj{
+	font-family: Arial;
+	font-size: 15px;
+	color: black;
+}
+.linea{
+	margin-bottom: 30px;
+}
+.linea2{
+	margin-top: 30px;
+}
+.nuevotres{
+	font-family: Arial;
+	font-size: 15px;
+	color: #C9C8C8;
+}
+.nuevocuatro{
+	font-family: Arial;
+	font-size: 17px;
+	color: #DA8888;
+}
+.more{
+	color: #dfb636;
+	font-size: 15px;
+}
+.alfin{
+	width:280px;
+	height: 280px;
+	border: 40px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+.finaldos{
+	font-size: 10px;
+	color:#BDBBBB;
+}
+footer{
+	background-color: #E1DEDE;
+	width: 100%;
+}
+.final{
+	margin-top: 27px;
+	font-size: 13px;
+	color:#969393;
+}
+
+
